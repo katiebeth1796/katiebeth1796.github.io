@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "PBMakeitaGrande";
+    src: url('/Users/kaitlinpogue/Library/Fonts/PBMakeitaGrande.ttf') format('tff')
+}
+@font-face {
+    font-family: 'PBMorningBrew'
+    src: url("/Users/kaitlinpogue/Library/Fonts/PBMorningBrew.ttf") format ('tff')
+}
+th {
+    background-color: aliceblue;
+    border: solid 1px;
+}
+.head {
+    width: 500px;
+}
+h1 {
+    font-family: PBMakeitaGrande, verdana;
+    font-size: 18;
+    background-color:blueviolet;
+}
+body {
+    font-family: PBMorningBrew, verdana;
+    font-size: 18;
+    letter-spacing: 1.5;
+}
